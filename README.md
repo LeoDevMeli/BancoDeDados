@@ -1,4 +1,4 @@
-# BandoDeDados
+# BancoDeDados
 
 #RESOLUCAO DAS QUESTOES ESCRITAS
 
