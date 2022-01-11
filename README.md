@@ -17,7 +17,7 @@
 
 #Para que é usado o HAVING?
 #-> HAVING é usada para especificar condições de filtragem em grupos de registros ou agregações.
-# É frequentemente usada em conjunto com a cláusula GROUP BY para filtrar as colunas agrupadas.
+#É frequentemente usada em conjunto com a cláusula GROUP BY para filtrar as colunas agrupadas.
 
 #Dados os diagramas a seguir, indique a qual tipo de JOIN cada um corresponde:
 #figura1 = INNER JOIN figura2 = LEFT JOIN
